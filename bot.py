@@ -1,4 +1,4 @@
-```python
+
 import os
 import sqlite3
 import logging
@@ -3602,4 +3602,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
